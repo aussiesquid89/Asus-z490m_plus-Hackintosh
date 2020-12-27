@@ -1,5 +1,5 @@
-# Asus-z490m_plus-Hackintosh
-## Opencore 0.6.4 Hackintosh on Asus Z490M-Plus - MacOS Catalina 10.15.7
+# ASUS Z490M-PLUS Hackintosh (Dual Boot)
+## Opencore 0.6.4 - MacOS Catalina 10.15.7
 ### Hardware
 * Motherboard: ASUS Z490M-PLUS
 * CPU: Intel i5 10600K
