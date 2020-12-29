@@ -1,6 +1,12 @@
 # ASUS Z490M-PLUS Hackintosh (Dual Boot)
-## Opencore 0.6.4 - MacOS Catalina 10.15.7 / Windows 10
+## Opencore 0.6.4 - MacOS Catalina 10.15.7 / Windows 10 (W10)
 ![About Mac](About_Mac.png)
+
+## Background Story
+This repository will hopefully help others who are looking make a hackintosh, using the same hardware as mine. AFAIK, everything works just like it would on a real Mac. 
+
+The reason for going on this journey to get a dual boot hackintosh began when my 2010 MBP's 2nd motherboard finally threw the towel in a couple of years ago. Since then, I originally thought about buying a new iMac or new MBP but they are both way too expensive, in my country anyway. I then settled with using a Windows desktop but I found it annoying for anything other than work stuff (MS Office etc.), and it was incredibly slow. Whilst dealing with my first-world problem, I researched Clover on the tonymac forums, and while there were some great builds and success stories, I wanted a reliable and identical machine to a Mac. Fast-forward and here we are, with Opencore 0.6..., I was presented with a solution to my wants. With this, I decided to heavily research compatible hardware, which would work with my budget (see Hardware, below).
+
 ### Hardware
 * Motherboard: ASUS Z490M-PLUS
 * CPU: Intel i5 10600K
@@ -43,4 +49,17 @@
 ### SMBIOS
 iMac 20,1
 
-to be continued...
+### To do:
+* Boot chime
+* Bootcamp
+* USB Mapping
+
+### What is working
+Everything that I have tested so far. This includes: 
+* 
+* Opencore Bootloader
+* WiFi (Fenvi on macOS and Netgear on W10)
+*
+
+### What isn't working
+Nothing that I have found.
