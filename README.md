@@ -17,4 +17,30 @@
 * Mouse: Logitech M170
 * Monitor: BenQ PD2700Q
 
+### Drivers
+* AudioDxe.efi (post-install)
+* HfsPlus.efi
+* OpenCanopy.efi (post-install)
+* OpenRuntime.efi
+
+### Kexts
+* AppleALC.kext
+* IntelMausiEthernet.kext
+* Lilu.kext
+* NVMeFix.kext
+* SMCProcessor.kext
+* SMCSuperIO.kext
+* VirtualSMC.kext
+* WhateverGreen.kext
+
+### SDDTs
+* SDDT-AWAC.aml
+* SDDT-EC.aml
+* SDDT-PLUG.aml
+* SDDT-USB-Reset.aml
+* SDDT-USBX.aml
+
+### SMBIOS
+iMac 20,1
+
 to be continued...
