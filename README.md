@@ -1,5 +1,5 @@
 # ASUS Z490M-PLUS Hackintosh (Dual Boot)
-## Opencore 0.6.4 - MacOS Catalina 10.15.7 / Windows 10 (W10)
+## Opencore 0.6.4 - MacOS Catalina 10.15.7 / Windows 10 (Win10)
 ![About Mac](About_Mac.png)
 
 ## Background Story
@@ -16,7 +16,7 @@ Even with countless reads of the [Open Core Install Guide](https://dortania.gith
 * CPU Cooler: Deepcool Gammaxx C40
 * RAM: Corsair Vengance LPX 32GB (2x 16GB) 3200GHz
 * NVMe: Samsung 970 EVO 500GB (MacOS)
-* NVMe: Samsung 970 EVO 500GB (Windows)
+* NVMe: Samsung 970 EVO 500GB (Win10)
 * PSU: Corsair RM550x
 * Case: Thermaltake S100 TG mATX - Snow Edition
 * WiFi/BT: Fenvi T1919 (MacOS)
@@ -69,5 +69,9 @@ Everything that I have tested so far. This includes:
 ### What isn't working
 Nothing that I have found.
 
+
+## Tests
+### Geekbench 5 (CPU) macOS vs Win10
+[CPU Mac](CPU Mac.png) | [CPU Windows](CPU Windows.png)
 
 To be continued.
