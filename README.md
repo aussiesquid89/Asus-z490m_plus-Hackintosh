@@ -1,6 +1,6 @@
 # ASUS Z490M-PLUS Hackintosh (Dual Boot) - OpenCore 0.6.4
-## MacOS Catalina 10.15.7 | Windows 10 20H2
---------------------------|----------------
+MacOS Catalina 10.15.7 | Windows 10 20H2
+-----------------------|----------------
 ![MacOS](Neofetch_Mac.png) | ![Win10](Neofetch_Windows.PNG) 
 
 
