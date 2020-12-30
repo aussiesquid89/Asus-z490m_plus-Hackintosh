@@ -72,6 +72,6 @@ Nothing that I have found.
 
 ## Tests
 ### Geekbench 5 (CPU) macOS vs Win10
-[CPU Mac](CPU Mac.png) | [CPU Windows](CPU Windows.png)
+[CPU Mac](CPU_Mac.png) | [CPU Windows](CPU Windows.png)
 
 To be continued.
