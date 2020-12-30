@@ -1,6 +1,8 @@
-# ASUS Z490M-PLUS Hackintosh (Dual Boot)
-## Opencore 0.6.4 - MacOS Catalina 10.15.7 / Windows 10 20H2
-![About Mac](About_Mac.png)
+# ASUS Z490M-PLUS Hackintosh (Dual Boot) - OpenCore 0.6.4
+## MacOS Catalina 10.15.7 | Windows 10 20H2
+--------------------------|----------------
+![MacOS](Neofetch_Mac.png) | ![Win10](Neofetch_Windows.PNG) 
+
 
 ## Background Story
 This repository will hopefully help others who are looking make a hackintosh, especially if they are using the same hardware. AFAIK, everything works just like it would on a real Mac. 
