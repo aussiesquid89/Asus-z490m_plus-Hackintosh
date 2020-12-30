@@ -79,7 +79,11 @@ macOS | Win10
 ### Geekbench 5 (GPU) macOS vs Win10
 macOS | Win10
 ----- |------
-![GPU Mac](OpenCL-Mac.png) | ![GPU Win10](OpenCL-Windows.PNG)
+![GPU Mac](OpenCL_Mac.png) | ![GPU Win10](OpenCL_Windows.PNG)
 
+### NVMe Speed Test macOS vs Win10 *not the same testing software!
+macOS | Win10
+----- |------
+![NVMe Mac](NVMe_Mac.png) | ![NVMe Win10](NVMe_Windows.PNG)
 
 To be continued.
