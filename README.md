@@ -81,9 +81,9 @@ macOS | Win10
 ----- |------
 ![GPU Mac](OpenCL_Mac.png) | ![GPU Win10](OpenCL_Windows.PNG)
 
-### NVMe Speed Test macOS vs Win10 *not the same testing software!
+### NVMe Speed Test macOS vs Win10 *not the same testing software!*
 macOS | Win10
 ----- |------
-![NVMe Mac](NVMe_Mac.png) | ![NVMe Win10](NVMe_Windows.PNG)
+![NVMe Mac](NVMe_Mac.png)| ![NVMe Win10](NVMe_Windows.PNG)
 
 To be continued.
