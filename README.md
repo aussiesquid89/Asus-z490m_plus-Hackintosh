@@ -84,7 +84,7 @@ macOS | Win10
 ### NVMe Speed Test macOS vs Win10 *not the same testing software!*
 macOS | Win10
 ----- |------
-![NVMe Mac](NVMeMac.png) | ![NVMe Windows](NVMeWindows.PNG)
+![NVMe Mac](NVMEMac.png) | ![NVMe Windows](NVMeWindows.PNG)
 
 
 To be continued.
