@@ -86,5 +86,10 @@ macOS | Win10
 ----- |------
 ![NVMe Mac](NVMEMac.png) | ![NVMe Windows](NVMeWindows.PNG)
 
+### WiFi Speed Test
+macOS | Win10
+----- |------
+![WIFI Mac](WIFI_MAC.png) | 
+
 
 To be continued.
