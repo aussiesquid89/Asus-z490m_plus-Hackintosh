@@ -86,10 +86,10 @@ macOS | Win10
 ----- |------
 ![NVMe Mac](NVMEMac.png) | ![NVMe Windows](NVMeWindows.PNG)
 
-### WiFi Speed Test
+### WiFi Speed Test Fenvi 1919 vs Netgear A6210
 macOS | Win10
 ----- |------
-![WIFI Mac](WIFI_MAC.png) | 
+![WIFI Mac](WIFI_MAC.png) | ![WIFI Windows](WIFI_WINDOWS.PNG) 
 
 
 To be continued.
