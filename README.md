@@ -71,22 +71,22 @@ Nothing that I have found.
 
 
 ## Tests
-### Geekbench 5 (CPU) macOS vs Win10
+### Geekbench 5 (CPU): macOS vs Win10
 macOS | Win10
 ----- |------
 ![CPU Mac](CPU_Mac.png) | ![CPU Windows](CPU_Windows.PNG)
 
-### Geekbench 5 (GPU) macOS vs Win10
+### Geekbench 5 (GPU): macOS vs Win10
 macOS | Win10
 ----- |------
 ![GPU Mac](OpenCL_Mac.png) | ![GPU Win10](OpenCL_Windows.PNG)
 
-### NVMe Speed Test macOS vs Win10 (_not the same testing software!_)
+### NVMe Speed Test: macOS vs Win10 (_not the same testing software!_)
 macOS | Win10
 ----- |------
 ![NVMe Mac](NVMEMac.png) | ![NVMe Windows](NVMeWindows.PNG)
 
-### WiFi Speed Test Fenvi 1919 vs Netgear A6210
+### WiFi Speed Test: Fenvi 1919 vs Netgear A6210
 macOS | Win10
 ----- |------
 ![WIFI Mac](WIFI_MAC.png) | ![WIFI Windows](WIFI_WINDOWS.PNG) 
