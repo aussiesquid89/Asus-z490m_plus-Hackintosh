@@ -76,4 +76,10 @@ macOS | Win10
 ----- |------
 ![CPU Mac](CPU_Mac.png) | ![CPU Windows](CPU_Windows.PNG)
 
+### Geekbench 5 (GPU) macOS vs Win10
+macOS | Win10
+----- |------
+![GPU Mac](OpenCL Mac.png) | ![GPU Win10](OpenCL Windows.PNG)
+
+
 To be continued.
