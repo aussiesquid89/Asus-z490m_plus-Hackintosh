@@ -93,5 +93,9 @@ macOS | Win10
 ----- |------
 ![WIFI Mac](WIFI_MAC.png) | ![WIFI Windows](WIFI_WINDOWS.PNG) 
 
+## The Build
+Exterior | Inside | Window | Complete Setup
+-------- | ------ | ------ | --------------
+![Exterior](Build_exterior.png) | ![Inside](Build_inside.png) | ![Window](Build_window.png) | ![Completed](Build_complete.png)
 
 To be continued.
