@@ -55,7 +55,6 @@ iMac 20,1
 
 ### To do:
 * Boot chime
-* Bootcamp
 * USB Mapping
 * Change from DEBUG to RELEASE
 
