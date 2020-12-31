@@ -98,4 +98,11 @@ Exterior | Inside | Window | Complete Setup
 -------- | ------ | ------ | --------------
 ![Exterior](Build_exterior.png) | ![Inside](Build_inside.png) | ![Window](Build_window.png) | ![Completed](Build_complete.png)
 
+There isn't a whole lot to be gained from my building skills! It was mostly straight forward, with the help of this [video](https://www.youtube.com/watch?v=v7MYOpFONCU) by Linus Tech Tips. The two biggest pains for me were: 
+1. attaching the CPU cooler; The screws weren't sitting correctly in the bracket to attach to the underside of the motherboard. This meant that the screws coming through to the main side of the motherboard were too short; luckily I didn't do any damage (very close to bending the board with too much force though!).   
+2. Attaching the I/O plate to the case and getting it to line up with the monitor. 
+
+I should add, a m-ATX build in this case is super easy! Some people will probably think the case is too big though. As a n00b, I think I would have struggled with a smaller case. The size and design of the case meant cable management (especially with a modular PSU) was easy and playing around with components is pretty accessible. I'm not into RGB but I'm sure if you are into it, this case would work well. I intially thought that I might need to buy some extra fans, but from the testing that I have done, it doesn't seem necessary. I haven't done any CPU/GPU OC'ing though.
+
+
 To be continued.
