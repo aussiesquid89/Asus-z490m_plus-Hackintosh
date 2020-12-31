@@ -12,7 +12,7 @@ The reason for going on this journey to get a dual boot hackintosh began when my
 Even with countless reads of the [Open Core Install Guide](https://dortania.github.io/OpenCore-Install-Guide/), scrolling through Reddit [r/hackintosh](https://www.reddit.com/r/hackintosh/) and following along in the [Discord](https://discord.com) channel (/r/Hackintosh Paradise), I still found ways to make, what should be a straight forward process, painstakingly long. I seemed to be able to make an errors at various points. I will share those to help others, so they don't make the same errors and hopefully save a lot of time and frustation. 
 
 ### Hardware
-* Motherboard: ASUS Z490M-PLUS
+* Motherboard: ASUS Z490M-PLUS (Realtek® ALC887)
 * CPU: Intel i5 10600K
 * GPU: Sapphire RX 580 Pulse 8GB Lite
 * CPU Cooler: Deepcool Gammaxx C40
