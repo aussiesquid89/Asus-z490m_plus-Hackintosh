@@ -11,6 +11,7 @@ The reason for going on this journey to get a dual boot hackintosh began when my
 
 Even with countless reads of the [Open Core Install Guide](https://dortania.github.io/OpenCore-Install-Guide/), scrolling through Reddit [r/hackintosh](https://www.reddit.com/r/hackintosh/) and following along in the [Discord](https://discord.com) channel (/r/Hackintosh Paradise), I still found ways to make, what should be a straight forward process, painstakingly long. I seemed to be able to make an errors at various points. I will share those to help others, so they don't make the same errors and hopefully save a lot of time and frustation. 
 
+## 2. Specs
 ### Hardware
 * Motherboard: ASUS Z490M-PLUS (Realtek® ALC887)
 * CPU: Intel i5 10600K
@@ -92,7 +93,7 @@ macOS | Win10
 ----- |------
 ![WIFI Mac](WIFI_MAC.png) | ![WIFI Windows](WIFI_WINDOWS.PNG) 
 
-## 2. The Build
+## 3. The Build
 Exterior | Inside | Window | Complete Setup
 -------- | ------ | ------ | --------------
 ![Exterior](Build_exterior.png) | ![Inside](Build_inside.png) | ![Window](Build_window.png) | ![Completed](Build_complete.png)
@@ -103,7 +104,7 @@ There isn't a whole lot to be gained from my building skills! It was mostly stra
 
 I should add, a m-ATX build in this case is super easy! Some people will probably think the case is too big though. As a n00b, I think I would have struggled with a smaller case. The size and design of the case meant cable management (especially with a modular PSU) was easy and playing around with components is pretty accessible. I'm not into RGB but I'm sure if you are into it, this case would work well. I intially thought that I might need to buy some extra fans, but from the testing that I have done, it doesn't seem necessary. I haven't done any CPU/GPU OC'ing though.
 
-## 3. Windows Installation
+## 4. Windows Installation
 Because my MBP (2010) is no longer fuctioning, I was left with a Windows PC to download the files that I needed. The reason for installing Windows first was to troubleshoot any potential issues with the build. I also took the opportunity to update the bios and create the USB needed to install OpenCore bootloader and macOS on the target machine. Before that, how I created the Windows USB (to install Windows).
 
 On my old Windows Desktop, I followed this [guide](https://www.howtogeek.com/427223/how-to-download-a-windows-10-iso-without-the-media-creation-tool/) to download the Windows 10 ISO. I then followed this [guide](https://www.howtogeek.com/howto/9585/how-to-setup-a-usb-flash-drive-to-install-windows-7/) (from Step 2). Once the USB was created I then turned on my new computer with the USB and one of the NVMes connected . Booting straight to bios, I turned on XMP to OC my RAM and had a look around in the bios. Making sure the USB was the first boot priority, I left the bios and was greeted with the Windows Installer. I selected Windows 10 Home N (I don't recommend this, as it leaves out the h.264 codec).
