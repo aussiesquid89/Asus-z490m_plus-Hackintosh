@@ -103,5 +103,7 @@ There isn't a whole lot to be gained from my building skills! It was mostly stra
 
 I should add, a m-ATX build in this case is super easy! Some people will probably think the case is too big though. As a n00b, I think I would have struggled with a smaller case. The size and design of the case meant cable management (especially with a modular PSU) was easy and playing around with components is pretty accessible. I'm not into RGB but I'm sure if you are into it, this case would work well. I intially thought that I might need to buy some extra fans, but from the testing that I have done, it doesn't seem necessary. I haven't done any CPU/GPU OC'ing though.
 
+## Windows Installation
+Because my MBP (2010) is no longer fuctioning, I was left with a Windows PC to download the files that I needed. The reason for installing Windows first was to troubleshoot any potential issues with the build. I also took the opportunity to update the bios and create the USB needed to install OpenCore bootloader and macOS on the target machine. Before that, how I created the Windows USB (to install Windows).
 
 To be continued.
